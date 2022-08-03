@@ -1,0 +1,13 @@
+{
+  "name": "lzma-js-simple",
+  "author": "Evelyn Gordon",
+  "version": "1.0.0",
+  "description": "Greatly simplified version of lzma-js, with typescript typings",
+  "main": "index.cjs",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blueberrymuffin3/lzma-js-simple.git"
+  },
+  "license": "MIT"
+}
