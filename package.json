@@ -1,7 +1,7 @@
 {
   "name": "lzma-js-simple",
   "author": "Evelyn Gordon",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Greatly simplified version of lzma-js, with typescript typings",
   "main": "index.cjs",
   "types": "index.d.ts",
