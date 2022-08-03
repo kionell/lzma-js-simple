@@ -9,5 +9,8 @@
     "type": "git",
     "url": "git+https://github.com/blueberrymuffin3/lzma-js-simple.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.6.3"
+  }
 }
