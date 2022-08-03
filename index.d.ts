@@ -9,8 +9,8 @@ declare function compress(
 
 declare function decompress(
   byte_arr: ArrayLike<number>,
-  on_finish: (result: string | number[], error: any) => void,
-  on_progress: (percent: number) => void
+  on_finish?: (result: string | number[], error: any) => void,
+  on_progress?: (percent: number) => void
 ): string | number[];
 
 export { compress, decompress };
