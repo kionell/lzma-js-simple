@@ -1,5 +1,5 @@
 {
-  "name": "@kionell/lzma-js-simple",
+  "name": "lzma-js-simple-v2",
   "author": "Kionell",
   "version": "1.2.0",
   "description": "Greatly simplified version of lzma-js, with typescript typings",
@@ -10,7 +10,7 @@
   "types": "./lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blueberrymuffin3/lzma-js-simple.git"
+    "url": "git+https://github.com/kionell/lzma-js-simple.git"
   },
   "license": "MIT",
   "devDependencies": {
