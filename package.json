@@ -1,7 +1,7 @@
 {
   "name": "lzma-js-simple-v2",
   "author": "Kionell",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Greatly simplified version of lzma-js, with typescript typings",
   "exports": {
     "import": "./lib/index.mjs",
